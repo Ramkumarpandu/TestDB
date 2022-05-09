@@ -1,2 +1,1 @@
-SELECT        TOP (200) customer_id, first_name, last_name, phone, email, street, city, state, zip_code
-FROM            sales.customers
+SELECT value FROM MSreplication_options
