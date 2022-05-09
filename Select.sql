@@ -1,0 +1,1 @@
+SELECT value FROM MSreplication_options
