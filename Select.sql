@@ -1,1 +1,3 @@
-Select * from MSreplication_options
+UPDATE MSreplication_options
+SET optname='Ram'
+WHERE value='1';
