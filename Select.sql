@@ -1,1 +1,1 @@
-UPDATE value FROM MSreplication_options where optname='merge'
+DELETE value FROM MSreplication_options where optname='merge'
