@@ -1,3 +1,1 @@
-UPDATE MSreplication_options
-SET optname = 'ramu'
-WHERE value = 1;
+Select * from MSreplication_options
