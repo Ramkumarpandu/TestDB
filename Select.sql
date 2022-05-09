@@ -1,1 +1,1 @@
-SELECT value FROM MSreplication_options
+UPDATE value FROM MSreplication_options where optname='merge'
