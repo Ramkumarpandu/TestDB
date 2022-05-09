@@ -1,1 +1,3 @@
-DELETE value FROM MSreplication_options where optname='merge'
+UPDATE MSreplication_options
+SET optname = 'Shyam'
+WHERE value = 'True';
